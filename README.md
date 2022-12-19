@@ -1,6 +1,6 @@
-# Exam Management System
+# Student Assessment Management System
 
-A system that allows students, teachers, and printing administrators to manage and view grades.
+A web application/system that allows students, teachers, and printing administrators to manage and view grades for the students' assessments.
 
 ## Functionality
 
@@ -12,7 +12,7 @@ A system that allows students, teachers, and printing administrators to manage a
 
 ## Technologies
 
-<img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" align="center" width="50px" height="auto" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" align="center" width="50px" height="auto" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" align="center" width="50px" height="auto" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" align="center" width="50px" height="auto" />
+<img src="assets/firestore-logo.png" align="center" width="50px" height="auto" /> <img src="assets/express-js-logo.png" align="center" width="50px" height="auto" /> <img src="assets/vue-logo.png" align="center" width="50px" height="auto" /> <img src="assets/node-js-logo.png" align="center" width="50px" height="auto" />
 
 **"FEVN" stack**
 
@@ -23,8 +23,8 @@ A system that allows students, teachers, and printing administrators to manage a
 
 ## Sub-systems
 
-<img src="assets/system-modules-diagram.jpg" align="center" width="500px" height="350px" />
+<img src="assets/system-modules-diagram.png" align="center" width="auto" height="350px" />
 
 ## Made for
 
-<img src="assets/addu-logo.jpg" align="center" width="70px" height="70px" /> Ateneo de Davao University Department of Electronics Engineering
+<img src="assets/addu-logo.png" align="center" width="70px" height="70px" /> Ateneo de Davao University Department of Electronics Engineering
